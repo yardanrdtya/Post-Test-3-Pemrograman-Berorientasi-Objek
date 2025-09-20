@@ -78,7 +78,7 @@ Jika user belum ada menambahkan jadwal olahraga di opsi tambah jadwal olahraga s
 
 Opsi ini digunakan ketika user ingin melakukan perubahan pada jadwal olahraga, seperti hari, jenis olahraga, durasi, dan intensitas yang ingin diupdate sesuai keinginan user.
 
-<img width="615" height="156" alt="image" src="https://github.com/user-attachments/assets/301e9fcf-8069-4322-8e92-c58138770f0c" />
+<img width="753" height="411" alt="image" src="https://github.com/user-attachments/assets/9820e7d1-3886-48cc-b06b-e036ca32bda4" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
@@ -86,7 +86,7 @@ Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
 Jika jadwal olahraga telah berhasil diubah maka program otomatis akan meng-update jadwal olahraga yang sudah ada sebelumnya.
 
-<img width="532" height="233" alt="image" src="https://github.com/user-attachments/assets/e611574d-a8e8-46df-a294-59142bc50934" />
+<img width="760" height="259" alt="image" src="https://github.com/user-attachments/assets/0c7e668a-2c55-46b6-b533-31506a420f63" />
 
 Jika user menginputkan nomor jadwal yang tidak tersedia di daftar jadwal olahraga, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
@@ -104,15 +104,15 @@ Jika user tidak mengisi jenis, hari dan durasi olahraga yang ingin diupdate, mak
 
 Opsi ini digunakan ketika user ingin menghapus jadwal olahraga yang telah dibuat sebelumnya.
 
-<img width="531" height="304" alt="image" src="https://github.com/user-attachments/assets/74b15c54-f620-4be7-8848-db0c2b5079f3" />
+<img width="764" height="312" alt="image" src="https://github.com/user-attachments/assets/b9b9ed3b-2e49-4bce-9bb4-8852d431d4ab" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
-<img width="510" height="357" alt="image" src="https://github.com/user-attachments/assets/ad74a5a7-2640-48b8-a22f-7e4c82952c8a" />
+<img width="509" height="359" alt="image" src="https://github.com/user-attachments/assets/8eca049e-8ee9-4fca-bd15-1c3db7e28f57" />
 
 Jika jadwal olahraga telah berhasil dihapus maka program otomatis akan meng-update jadwal olahraga yang sudah ada sebelumnya.
 
-<img width="527" height="230" alt="image" src="https://github.com/user-attachments/assets/fcd7207b-3cfa-4925-b587-4e7f91f402c9" />
+<img width="765" height="239" alt="image" src="https://github.com/user-attachments/assets/b8fcbb0c-c593-4dbc-8c62-6eb01a5cb561" />
 
 Jika user menginputkan nomor jadwal yang tidak tersedia untuk dihapus di daftar jadwal olahraga, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
@@ -126,11 +126,11 @@ Jika user menginputkan selain angka atau tidak diisi, maka akan muncul pesan sep
 
 Opsi ini digunakan ketika user ingin mencari atau searching daftar jadwal olahraga yang sudah dibuat sebelumnya.
 
-<img width="477" height="81" alt="image" src="https://github.com/user-attachments/assets/aad78653-79a0-4411-a120-5db988889921" />
+<img width="558" height="81" alt="image" src="https://github.com/user-attachments/assets/ae802bbe-09f9-48ef-9d2a-4cbbcfd51f4d" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
-<img width="508" height="381" alt="image" src="https://github.com/user-attachments/assets/251d03dd-a701-449a-a46f-eb6695e883d9" />
+<img width="552" height="383" alt="image" src="https://github.com/user-attachments/assets/0cbd97a1-5ff0-4a82-b69e-ec45abf1ba20" />
 
 Jika user menginputkan Jenis/Hari yang tidak tersedia di jadwal olahraga yang sudah dibuat sebelumnya, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
