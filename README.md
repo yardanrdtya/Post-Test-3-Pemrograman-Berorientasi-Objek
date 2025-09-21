@@ -126,19 +126,19 @@ Jika user menginputkan selain angka atau tidak diisi, maka akan muncul pesan sep
 
 Opsi ini digunakan ketika user ingin mencari atau searching daftar jadwal olahraga yang sudah dibuat sebelumnya.
 
-<img width="558" height="81" alt="image" src="https://github.com/user-attachments/assets/ae802bbe-09f9-48ef-9d2a-4cbbcfd51f4d" />
+<img width="728" height="111" alt="image" src="https://github.com/user-attachments/assets/38148eb9-8fca-483f-b65e-3c8ccad3f4da" />
 
 Setelah operasi dijalankan maka program akan otomatis kembali ke menu utama.
 
-<img width="552" height="383" alt="image" src="https://github.com/user-attachments/assets/0cbd97a1-5ff0-4a82-b69e-ec45abf1ba20" />
+<img width="727" height="411" alt="image" src="https://github.com/user-attachments/assets/37ad27b5-356c-4896-86ed-092edfe35515" />
 
-Jika user menginputkan Jenis/Hari yang tidak tersedia di jadwal olahraga yang sudah dibuat sebelumnya, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
+Jika user menginputkan Jenis/Hari/intensitas yang tidak tersedia di jadwal olahraga yang sudah dibuat sebelumnya, maka akan muncul pesan seperti gambar dibawah dan program otomatis akan kembali ke menu utama.
 
-<img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/1c4b95a3-48c8-42e6-bd79-6c0c42ad442e" />
+<img width="624" height="390" alt="image" src="https://github.com/user-attachments/assets/dce4f933-074f-418a-8d41-ee8238434f44" />
 
 Jika user tidak mengisi kata kunci untuk mencari jadwal olahraga, maka akan muncul pesan seperti gambar dibawah dan program akan otomatis mengulang dibagian input kata kunci untuk mencari jadwal.
 
-<img width="447" height="105" alt="image" src="https://github.com/user-attachments/assets/cf496b52-60d3-47ec-b11b-fb677f4cd074" />
+<img width="527" height="105" alt="image" src="https://github.com/user-attachments/assets/5c96803d-4042-4f1e-a3e4-2eba009c0896" />
 
 [6]. Keluar
 
